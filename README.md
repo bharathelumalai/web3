@@ -1,2 +1,1 @@
-# web3
-web 3 payment website
+# Web3 PayPal Clone - Final (Moralis Blueprint)
